@@ -1,0 +1,4 @@
+12. Explique que es una función lambda
+
+Una función lambda es una función anónima, es decir, una función que no está enlazada
+a un identificador. Las funciones lambda tienen la siguente sintaxis (input parameters) -> expression

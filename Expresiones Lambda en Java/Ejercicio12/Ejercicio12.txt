@@ -1,0 +1,6 @@
+Las expresiones lambda son funciones similares a los métodos, pero no 
+tienen un nombre asociado las idenficarlo, y se pueden implementar en el 
+cuerpo de un método. La expresión lambda más sencilla es: parámetro -> 
+expresión. (parámetro1, parametro2) -> expresión, las expresiones están 
+limitadas en el sentido de que tienen que retornar un valor, y no se 
+pueden usar sentencias de control como if o for.
